@@ -351,7 +351,7 @@ sep25_bmlops_int_movie_reco_2/
 ## Team Information
 
 **Course:** Machine Learning Engineering at DataScientest  
-**Project duration:** 5 phases over 2 months  
-**Current phase:** 1/5 completed  
+**Project duration:** 4 phases over 2 months  
+**Current phase:** 4/4 completed  
 **Team size:** 3 people  
 **Focus:** Building production-ready ML systems, not just algorithms
