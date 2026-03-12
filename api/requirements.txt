@@ -10,7 +10,7 @@ psutil==5.9.8
 pyarrow==15.0.2
 cloudpickle==3.1.0
 
-setuptools
+setuptools<81
 wheel
 
 mysql-connector-python
