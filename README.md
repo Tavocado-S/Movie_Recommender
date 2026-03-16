@@ -23,7 +23,7 @@ This project addresses that challenge by building a collaborative filtering reco
 This project was completed in a team setting as part of the DataScientest Machine Learning Engineering training.
 
 My main contribution covered the end-to-end ML workflow, including:
-- implementation of the MySQL database layer for storing ratings and movie data
+- implementation of the MySQL data layer, including database setup, table structure, and integration with the recommendation workflow
 - data pipeline development
 - experiment tracking and comparison with MLflow
 - retraining workflow orchestration with Airflow
