@@ -16,6 +16,20 @@ This project addresses that challenge by building a collaborative filtering reco
 - Handle cold-start scenarios with a fallback recommendation strategy.
 - Create a reproducible MLOps pipeline for training, tracking, deployment, and monitoring.
 
+## My Contribution
+
+## My Contribution
+
+This project was completed in a team setting as part of the DataScientest Machine Learning Engineering training.
+
+My main contribution covered the end-to-end ML workflow, including:
+- implementation of the MySQL database layer for storing ratings and movie data
+- data pipeline development
+- experiment tracking and comparison with MLflow
+- retraining workflow orchestration with Airflow
+- integration of recommendation logic into the application workflow
+- contribution to reproducibility and end-to-end execution with Docker Compose
+
 ## Data
 - **Source:** MovieLens 20M dataset
 - **Content:** user ratings, movie metadata, and auxiliary files
