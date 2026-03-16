@@ -18,8 +18,6 @@ This project addresses that challenge by building a collaborative filtering reco
 
 ## My Contribution
 
-## My Contribution
-
 This project was completed in a team setting as part of the DataScientest Machine Learning Engineering training.
 
 My main contribution covered the end-to-end ML workflow, including:
