@@ -20,7 +20,7 @@ This project addresses that challenge by building a collaborative filtering reco
 
 This project was completed in a team setting as part of the DataScientest Machine Learning Engineering training.
 
-My main contribution covered the end-to-end ML workflow, including:
+My main contribution covered:
 - implementation of the MySQL data layer, including database setup, table structure, and integration with the recommendation workflow
 - data pipeline development
 - experiment tracking and comparison with MLflow
@@ -127,4 +127,4 @@ python scripts/bootstrap.py
 - Deploy the system to a cloud environment
 
 ## Notes
-This project was developed as part of the DataScientest Machine Learning Engineering program and is presented here as a portfolio project focused on end-to-end ML system design, reproducibility, and deployment-oriented thinking.
+This project was developed as part of the DataScientest Machine Learning Engineering program and is presented here as a portfolio project focused on end-to-end ML and Airflow system design, reproducibility, and deployment-oriented thinking.
