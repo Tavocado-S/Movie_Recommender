@@ -18,16 +18,9 @@ jupyter>=1.0.0
 matplotlib>=3.6.0
 seaborn>=0.12.0
 
-# Database (built into Python)
-# sqlite3 - no need to install
-
 mlflow>=2.7.0
-dvc>=3.0.0 
-prometheus-client>=0.17.0
-evidently>=0.4.0
 
 # MySQL      
-psycopg2-binary
 mysql-connector-python
 python-dotenv
 SQLAlchemy>=2.0.0

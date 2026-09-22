@@ -64,6 +64,10 @@ This project demonstrates more than model training: it shows how a machine learn
 - **Frontend:** Streamlit app for interactive usage
 - **Deployment:** Docker Compose for local end-to-end execution
 
+## CI
+
+A GitHub Actions workflow (`.github/workflows/python-app.yml`) runs linting (flake8) and pytest on every push to `master`. Current test coverage is minimal; expanding it is tracked under Future improvements.
+
 ## My contribution
 This project was completed in a team setting as part of the DataScientest Machine Learning Engineering training. My contribution focused on building the end-to-end analytical workflow, including data pipeline development, model training and evaluation, experiment tracking, workflow automation, API integration, and user-facing delivery through interactive tools.
 
@@ -76,6 +80,9 @@ This project was completed in a team setting as part of the DataScientest Machin
 - `docker-compose.yml` — local orchestration of the full system
 - `requirements.txt` — project dependencies
 - `scripts/bootstrap.py` - downloads data, creates database and tables
+- `.github/workflows/` — CI pipeline (lint + tests on push)
+- `mysql-init/` — SQL initialization scripts for the MySQL container
+- `tests/` — automated tests (currently minimal, see CI)
 
 ## How to run
 
